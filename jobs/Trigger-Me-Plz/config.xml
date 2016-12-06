@@ -16,7 +16,7 @@
   <triggers>
     <jenkins.triggers.ReverseBuildTrigger>
       <spec></spec>
-      <upstreamProjects>hello-scalatra-maven/com.qa:hello-scalatra, </upstreamProjects>
+      <upstreamProjects>hello-scalatra-maven</upstreamProjects>
       <threshold>
         <name>SUCCESS</name>
         <ordinal>0</ordinal>
