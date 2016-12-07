@@ -68,7 +68,7 @@
       <forcePull>true</forcePull>
       <skipBuild>false</skipBuild>
       <skipDecorate>false</skipDecorate>
-      <repoTag>Jenkins$BUILD_NUMBER</repoTag>
+      <repoTag>jenkins$BUILD_NUMBER</repoTag>
       <skipPush>false</skipPush>
       <createFingerprint>true</createFingerprint>
       <skipTagLatest>false</skipTagLatest>
